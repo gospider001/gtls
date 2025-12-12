@@ -5,8 +5,8 @@ go 1.25.0
 require (
 	github.com/caddyserver/certmagic v0.25.0
 	github.com/gospider007/conf v0.0.0-20250815031235-1df45ae2e117
-	github.com/gospider007/ja3 v0.0.0-20251210003307-e9b147716b45
-	github.com/gospider007/tools v0.0.0-20251209055936-a37812a2b732
+	github.com/gospider007/ja3 v0.0.0-20251212071310-16e02dfc9cb7
+	github.com/gospider007/tools v0.0.0-20251212071315-d05548ab517e
 	github.com/refraction-networking/utls v1.8.1
 )
 
