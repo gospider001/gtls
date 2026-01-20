@@ -5,9 +5,9 @@ go 1.25.0
 require (
 	github.com/caddyserver/certmagic v0.25.1
 	github.com/gospider007/conf v0.0.0-20250815031235-1df45ae2e117
-	github.com/gospider007/ja3 v0.0.0-20260113083832-03dac76b0775
-	github.com/gospider007/tools v0.0.0-20260113083648-187b0026d83c
-	github.com/refraction-networking/utls v1.8.1
+	github.com/gospider007/ja3 v0.0.0-20260120074451-72b89866679e
+	github.com/gospider007/tools v0.0.0-20260120074453-dbd9d4748c8a
+	github.com/refraction-networking/utls v1.8.2
 )
 
 require (
@@ -19,10 +19,10 @@ require (
 	github.com/go-task/slim-sprig/v3 v3.0.0 // indirect
 	github.com/golang/snappy v1.0.0 // indirect
 	github.com/google/gopacket v1.1.19 // indirect
-	github.com/google/pprof v0.0.0-20260111202518-71be6bfdd440 // indirect
+	github.com/google/pprof v0.0.0-20260115054156-294ebfa9ad83 // indirect
 	github.com/gospider007/kinds v0.0.0-20250815031133-b2282666f69c // indirect
 	github.com/gospider007/re v0.0.0-20251212071142-f56bce921150 // indirect
-	github.com/klauspost/compress v1.18.2 // indirect
+	github.com/klauspost/compress v1.18.3 // indirect
 	github.com/klauspost/cpuid/v2 v2.3.0 // indirect
 	github.com/libdns/libdns v1.1.1 // indirect
 	github.com/mholt/acmez/v3 v3.1.4 // indirect
