@@ -113,15 +113,15 @@ func SplitHostPort(address string) (string, int, error) {
 	}
 	return host, portnum, nil
 }
-func ParseHost(host string) (net.IP, int) {
+func ParseHost(host string) net.IP {
 	if ip := net.ParseIP(host); ip != nil {
 		if ip4 := ip.To4(); ip4 != nil {
-			return ip4, 4
+			return ip4
 		} else if ip6 := ip.To16(); ip6 != nil {
-			return ip6, 6
+			return ip6
 		}
 	}
-	return nil, 0
+	return nil
 }
 func VerifyProxy(proxyUrl string) (*url.URL, error) {
 	proxy, err := url.Parse(proxyUrl)
