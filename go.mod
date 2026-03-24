@@ -4,8 +4,8 @@ go 1.26.0
 
 require (
 	github.com/caddyserver/certmagic v0.25.2
-	github.com/gospider007/conf v0.0.0-20260323150136-856f32a66956
-	github.com/gospider007/ja3 v0.0.0-20260323150136-3fb14ae8125e
+	github.com/gospider007/conf v0.0.0-20260323170523-429be8f078eb
+	github.com/gospider007/ja3 v0.0.0-20260323170525-ffe6efd39773
 	github.com/gospider007/tools v0.0.0-20260323151002-ebe96ce78e71
 	github.com/hashicorp/golang-lru/v2 v2.0.7
 	github.com/refraction-networking/utls v1.8.2
@@ -40,7 +40,7 @@ require (
 	go.uber.org/zap/exp v0.3.0 // indirect
 	golang.org/x/crypto v0.49.0 // indirect
 	golang.org/x/exp v0.0.0-20260312153236-7ab1446f8b90 // indirect
-	golang.org/x/image v0.37.0 // indirect
+	golang.org/x/image v0.38.0 // indirect
 	golang.org/x/mod v0.34.0 // indirect
 	golang.org/x/net v0.52.0 // indirect
 	golang.org/x/sys v0.42.0 // indirect
