@@ -36,10 +36,10 @@ github.com/google/gopacket v1.1.19 h1:ves8RnFZPGiFnTS0uPQStjwru6uO6h+nlr9j6fL7kF
 github.com/google/gopacket v1.1.19/go.mod h1:iJ8V8n6KS+z2U1A8pUwu8bW5SyEMkXJB8Yo/Vo+TKTo=
 github.com/google/pprof v0.0.0-20260402051712-545e8a4df936 h1:EwtI+Al+DeppwYX2oXJCETMO23COyaKGP6fHVpkpWpg=
 github.com/google/pprof v0.0.0-20260402051712-545e8a4df936/go.mod h1:MxpfABSjhmINe3F1It9d+8exIHFvUqtLIRCdOGNXqiI=
-github.com/gospider007/conf v0.0.0-20260413012603-06631e48f8f0 h1:wy2vwS6OR2qHmZ0CQW+umxu0eoMhzaDp8lwXwcP2bP0=
-github.com/gospider007/conf v0.0.0-20260413012603-06631e48f8f0/go.mod h1:9lQ8/Mjrpf9Y/hq+dyR3Jq8XPhhS/YljolF64hwbdhA=
-github.com/gospider007/ja3 v0.0.0-20260413012609-29ff1bdfd6d1 h1:5IJVVEvQrQ1qEdppYzNnagQRWF8M+ENRH1C1YRDhTYw=
-github.com/gospider007/ja3 v0.0.0-20260413012609-29ff1bdfd6d1/go.mod h1:/zU/p4RXmfuzVYL1YJQpojLtlYAMsBVEXAuc7ujkNxA=
+github.com/gospider007/conf v0.0.0-20260413012735-bb0241823799 h1:YgxUjaouiBBO/pn92Qj49CrMCb66PxxMT+7LAV4l2k0=
+github.com/gospider007/conf v0.0.0-20260413012735-bb0241823799/go.mod h1:4EKLiD+KaagqABSqaWc3ftiQmL4uFNj4bTdEc2jGSas=
+github.com/gospider007/ja3 v0.0.0-20260413012738-7c775cba5599 h1:5APWrtG9vmreOPyA8LWM38IRiqzfIfw99HkJM6NNEyo=
+github.com/gospider007/ja3 v0.0.0-20260413012738-7c775cba5599/go.mod h1:826XKHrbZC8Sc2HR+/eGxT9LHRV4R4kObcHHuHvE+Us=
 github.com/gospider007/kinds v0.0.0-20260211060834-06a10e2431d8 h1:EivYaFLOylV33Q5aRkF/cwkisOkDVDWLJ5CXfHYz5mU=
 github.com/gospider007/kinds v0.0.0-20260211060834-06a10e2431d8/go.mod h1:+DxImhsKjwFWM5qTeuWSsh6q6Rax+H0fN3QcuoJZos8=
 github.com/gospider007/re v0.0.0-20260227072205-6223d82a3dab h1:LEp9NN4EMV9GuTWnXRN4eiiUAjpCEq2Z4HpVgTQx0JY=
