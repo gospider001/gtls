@@ -3,7 +3,7 @@ module github.com/gospider007/gtls
 go 1.26.0
 
 require (
-	github.com/caddyserver/certmagic v0.25.2
+	github.com/caddyserver/certmagic v0.25.3
 	github.com/gospider007/conf v0.0.0-20260413012735-bb0241823799
 	github.com/gospider007/ja3 v0.0.0-20260421093159-ea7781a95904
 	github.com/gospider007/tools v0.0.0-20260413012604-fb962abed9fb
