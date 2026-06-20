@@ -36,10 +36,10 @@ github.com/google/gopacket v1.1.19 h1:ves8RnFZPGiFnTS0uPQStjwru6uO6h+nlr9j6fL7kF
 github.com/google/gopacket v1.1.19/go.mod h1:iJ8V8n6KS+z2U1A8pUwu8bW5SyEMkXJB8Yo/Vo+TKTo=
 github.com/google/pprof v0.0.0-20260604005048-7023385849c0 h1:h1QTMDl6q9wDvDCJVpKQSjgleGFYnd2fOxmg2K+6BGE=
 github.com/google/pprof v0.0.0-20260604005048-7023385849c0/go.mod h1:MxpfABSjhmINe3F1It9d+8exIHFvUqtLIRCdOGNXqiI=
-github.com/gospider007/conf v0.0.0-20260620145933-eec25ee9a2c8 h1:l/ImfhmaMvAekgD1wr6sWpE2r4NM3ieQNH9vZeEgnJo=
-github.com/gospider007/conf v0.0.0-20260620145933-eec25ee9a2c8/go.mod h1:BikTn+JQdTrsHEfSf1Qm0jogk0oCQZyKB+HDelxnvvA=
-github.com/gospider007/ja3 v0.0.0-20260620145945-e0135b36c0ef h1:3qHteu61vgxow1nh1cnPWwT+TI6GG3Gqgfp2OPHbm1Y=
-github.com/gospider007/ja3 v0.0.0-20260620145945-e0135b36c0ef/go.mod h1:2bBsArdyY44GdTPr9YTTHEh4Kj3ojx1cfnVPEYdf/uc=
+github.com/gospider007/conf v0.0.0-20260620150121-7a5dd6354958 h1:frh3ffuyrmFiLCF26o5FUXUgksQZHoeaN8e0LDmnBXQ=
+github.com/gospider007/conf v0.0.0-20260620150121-7a5dd6354958/go.mod h1:Qt2p+OpfQKemuHDlwsJY5bGJHtDQiHMap9CitDZH37c=
+github.com/gospider007/ja3 v0.0.0-20260620150234-4f1c43a8a6fd h1:m4wYzPozt+p6S/OIfym1NTiitddeZxZas3BAiZJTw6c=
+github.com/gospider007/ja3 v0.0.0-20260620150234-4f1c43a8a6fd/go.mod h1:SLTMwvRdAubd9WAkug0/yX9pTP6dtXXqcCFI37zibUI=
 github.com/gospider007/kinds v0.0.0-20260211060834-06a10e2431d8 h1:EivYaFLOylV33Q5aRkF/cwkisOkDVDWLJ5CXfHYz5mU=
 github.com/gospider007/kinds v0.0.0-20260211060834-06a10e2431d8/go.mod h1:+DxImhsKjwFWM5qTeuWSsh6q6Rax+H0fN3QcuoJZos8=
 github.com/gospider007/re v0.0.0-20260227072205-6223d82a3dab h1:LEp9NN4EMV9GuTWnXRN4eiiUAjpCEq2Z4HpVgTQx0JY=
