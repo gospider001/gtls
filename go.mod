@@ -5,7 +5,7 @@ go 1.26.0
 require (
 	github.com/caddyserver/certmagic v0.25.4
 	github.com/gospider007/conf v0.0.0-20260620150121-7a5dd6354958
-	github.com/gospider007/ja3 v0.0.0-20260623034820-91d2b0a6b21f
+	github.com/gospider007/ja3 v0.0.0-20260624065228-e64d69460980
 	github.com/gospider007/tools v0.0.0-20260620145938-6b8c82109b5f
 	github.com/hashicorp/golang-lru/v2 v2.0.7
 	golang.org/x/sync v0.21.0
@@ -34,7 +34,6 @@ require (
 	github.com/onsi/ginkgo/v2 v2.32.0 // indirect
 	github.com/refraction-networking/uquic v0.0.6 // indirect
 	github.com/refraction-networking/utls v1.8.2 // indirect
-	github.com/tidwall/gjson v1.19.0 // indirect
 	github.com/zeebo/blake3 v0.2.4 // indirect
 	go.uber.org/mock v0.6.0 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
