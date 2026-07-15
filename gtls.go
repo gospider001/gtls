@@ -23,9 +23,9 @@ import (
 	"github.com/caddyserver/certmagic"
 	"github.com/gospider007/conf"
 	"github.com/gospider007/ja3"
+	utls "github.com/gospider007/ja3/utls"
 	"github.com/gospider007/tools"
 	lru "github.com/hashicorp/golang-lru/v2"
-	utls "github.com/gospider007/ja3/utls"
 	"golang.org/x/sync/singleflight"
 )
 
@@ -48,7 +48,7 @@ func init() {
 	if err != nil {
 		log.Panic(err)
 	}
-	certCache, _ = lru.New[string, *tls.Certificate](10000)
+	certCache, _ = lru.New[string, *tls.Certificate](1000)
 }
 
 func LoadRootCertWithLocal(random bool) (*x509.Certificate, *ecdsa.PrivateKey, error) {
