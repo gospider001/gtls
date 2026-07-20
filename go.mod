@@ -4,9 +4,9 @@ go 1.26.0
 
 require (
 	github.com/caddyserver/certmagic v0.25.4
-	github.com/gospider007/conf v0.0.0-20260715091028-5badc6f7369e
-	github.com/gospider007/ja3 v0.0.0-20260720095439-b340fe1f2d13
-	github.com/gospider007/tools v0.0.0-20260715090848-9caf3c974ea0
+	github.com/gospider007/conf v0.0.0-20260720134714-d98a9c47e686
+	github.com/gospider007/ja3 v0.0.0-20260720134722-a8b543929d9d
+	github.com/gospider007/tools v0.0.0-20260720134718-b120c34e17d2
 	github.com/hashicorp/golang-lru/v2 v2.0.7
 	golang.org/x/sync v0.22.0
 )
