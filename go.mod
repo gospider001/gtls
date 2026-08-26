@@ -5,7 +5,7 @@ go 1.27.0
 require (
 	github.com/caddyserver/certmagic v0.25.4
 	github.com/gospider007/conf v0.0.0-20260824054722-d17b88fbbbcb
-	github.com/gospider007/ja3 v0.0.0-20260824054744-d4df22ecda5a
+	github.com/gospider007/ja3 v0.0.0-20260826002956-b2c5187bde33
 	github.com/gospider007/tools v0.0.0-20260824054625-953e094a3970
 	github.com/hashicorp/golang-lru/v2 v2.0.7
 	golang.org/x/sync v0.22.0
