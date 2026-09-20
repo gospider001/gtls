@@ -31,7 +31,7 @@ require (
 	github.com/miekg/dns v1.1.73 // indirect
 	github.com/mileusna/useragent v1.3.5 // indirect
 	github.com/minio/minlz v1.2.0 // indirect
-	github.com/onsi/ginkgo/v2 v2.32.2 // indirect
+	github.com/onsi/ginkgo/v2 v2.33.0 // indirect
 	github.com/refraction-networking/uquic v0.0.6 // indirect
 	github.com/refraction-networking/utls v1.8.2 // indirect
 	github.com/zeebo/blake3 v0.2.4 // indirect
