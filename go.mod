@@ -4,8 +4,8 @@ go 1.27.0
 
 require (
 	github.com/caddyserver/certmagic v0.25.6
-	github.com/gospider007/conf v0.0.0-20261116005555-27df96227555
-	github.com/gospider007/ja3 v0.0.0-20261123055606-f4c666bb5a07
+	github.com/gospider007/conf v0.0.0-20261123061641-3d2613b7aafd
+	github.com/gospider007/ja3 v0.0.0-20261123061643-8a07fd9d1950
 	github.com/gospider007/tools v0.0.0-20261123060518-0588e63b1fa6
 	github.com/hashicorp/golang-lru/v2 v2.0.7
 	golang.org/x/sync v0.25.0
@@ -32,12 +32,8 @@ require (
 	github.com/mileusna/useragent v1.3.5 // indirect
 	github.com/minio/minlz v1.3.0 // indirect
 	github.com/onsi/ginkgo/v2 v2.34.0 // indirect
-	github.com/onsi/gomega v1.44.0 // indirect
 	github.com/refraction-networking/uquic v0.0.6 // indirect
 	github.com/refraction-networking/utls v1.8.2 // indirect
-	github.com/tidwall/gjson v1.20.6 // indirect
-	github.com/tidwall/pretty v1.3.1 // indirect
-	github.com/tidwall/sjson v1.2.11 // indirect
 	github.com/zeebo/blake3 v0.2.4 // indirect
 	github.com/zeebo/xxh3 v1.1.1-0.20260908150653-f7225998cebf // indirect
 	go.uber.org/mock v0.6.0 // indirect
@@ -52,6 +48,5 @@ require (
 	golang.org/x/net v0.63.0 // indirect
 	golang.org/x/sys v0.50.0 // indirect
 	golang.org/x/text v0.44.0 // indirect
-	golang.org/x/time v0.16.0 // indirect
 	golang.org/x/tools v0.53.0 // indirect
 )
